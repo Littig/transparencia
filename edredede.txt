@@ -1,2 +1,6 @@
 ferfwerfwertwe
+<<<<<<< HEAD
+mudança
+=======
 aqui vai mais um teste
+>>>>>>> upstream/master
