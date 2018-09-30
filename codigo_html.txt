@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Portal de Transparencia</title>
+  </head>
+  <body>
+    <h1 style="text-align:center;">PORTAL DA TRANSPARÊNCIA <p></p>Sanremo Transportes</h1>
+
+  <center>
+  <img src="http://www.armazenstrianon.com.br/imagens/informacoes/gestao-transporte-distribuicao-01.jpg" alt="">
+</center>
+
+<h2>MENU</h2>
+
+<h3><a href="#empresa">Sobre Empresa</a></h3>
+<h3><a href="#portal">Sobre Portal</a></h3>
+<h3><a href="#pagamento">Gastos com Folha de Pagamento</a></h3>
+<h3><a href="#combustíveis">Gastos com Combustíveis</a></h3>
+<h3><a href="#manutenção">Gastos com Manutenção da Frota</a></h3>
+<h3><a href="#limpeza">Gastos com Limpeza</a></h3>
+<h3><a href="#frota">Frota em Números</a></h3>
+<h3><a href="#viagens">Número Viagens Realizadas</a></h3>
+<h3><a href="#passageiros">Número de Passageiros Transportados</a></h3>
+
+      <h2 id="empresa">SOBRE A EMPRESA</h2>
+
+<div>
+  <img src="https://protonbussimulatores.files.wordpress.com/2017/06/fb_img_1494184841644-cc3b3pia-cc3b3piadfdsfsdf-3.png" align="left" width="150" height="150">
+
+
+<h2>MENU</h2>
+  <ul>
+
+    <li><a href="#">Sobre Empresa</a><li>
+    <li><a href="#">Sobre Potal</a><li>
+    <li><a href="#">Folha de Pagamento</a><li>
+    <li><a href="#">Gasolina</a><li>
+    <li><a href="#">Manutenção da frota</a><li>
+    <li><a href="#">Limpeza</a><li>
+    <li><a href="#">Frota</a><li>
+    <li><a href="#">Viagens</a><li>
+    <li><a href="#">Passageiro</a><li>
+
+    <li><a href="#empresa">Sobre Empresa</a><li>
+    <li><a href="#portal">Sobre Portal</a><li>
+    <li><a href="#pagamento">Gastos com Folha de Pagamento</a><li>
+    <li><a href="#combustíveis">Gastos com Combustíveis</a><li>
+    <li><a href="#manutenção">Gastos com Manutenção da Frota</a><li>
+    <li><a href="#limpeza">Gastos com Limpeza</a><li>
+    <li><a href="#frota">Frota em Números</a><li>
+    <li><a href="#viagens">Número Viagens Realizadas</a><li>
+    <li><a href="#passageiros">Número de Passageiros Transportados</a><li>
+
+  </ul>
+</nav>
+
+<table>
+  <tr>
+    <td>
+
+      <h1>SOBRE EMPRESA</h1>
+
+      <h2 id="empresa">SOBRE EMPRESA</h2>
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+      A Viação Águia Branca é uma empresa brasileira de transporte rodoviário de passageiros fundada na cidade de Colatina, no Espírito Santo no ano de 1946. Em 1957 foi comprada pela família Chieppe, tornando-se o embrião para surgimento do Grupo Águia Branca. Atualmente sua sede se encontra no município de Cariacica, também no Espírito Santo.
+
+      A Sanremmo é uma empresa brasileira de transporte rodoviário de passageiros fundada na cidade de Colatina, no Espírito Santo no ano de 1946. Em 1957 foi comprada pela família Chieppe, tornando-se o embrião para surgimento do Grupo Águia Branca. Atualmente sua sede se encontra no município de Cariacica, também no Espírito Santo.
+
+
+     A Sanremo é uma empresa de excelência na gestão da movimentação física de pessoas e bens entre pontos diferentes.<br> A gestão de transporte utiliza sistemas avançados
+     de comunicação e informação, o que permite a recolha de dados que servem para melhorar as operações de veículos e instalações. Outras atividades importantes,
+     relacionadas ao transporte, são o planejamento e calendarização do transporte e a gestão do pessoal.
+     O processo de planeamento do transporte é sistemático e bem definido de forma a permitir às diversas entidades o desenvolvimento de ações que vão de
+     encontro às expectativas para o melhor sistema de transportes do estado.
+</div>
+<br><br><br><br>
+      <h2 id="portal">SOBRE O PORTAL</h2>
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3X_bbrUDmfJEVRWmIlX-AC_CRxu5TtnrBrKZk3eg1vO48Jp-yg" align="left">
+
+
+      <h4>O QUE É?</h4>
+      Lançado pela Sanremo dois anos após sua inauguração, o Portal da Transparência da Sanremo é um site de acesso livre, no qual o cidadão pode encontrar informações
+      sobre como funciona a empresa, além de se informar sobre assuntos relacionados à gestão pública da mesma.<br> Desde a criação, a ferramenta ganhou novos
+      recursos, aumentou a oferta de dados ano após ano e consolidou-se como importante instrumento de controle interno, com reconhecimento dentro e fora do empresa.<br>
+      A fim de atender de forma mais eficiente a crescente demanda e as obrigações de transparência, a Sanremo iniciou projeto para a restruturação do Portal.<p></p>
+      E não deixe de experimentar as ferramentas de notificação para ficar informado sobre os temas de seu interesse!
+
+      <h4>COMO  FUNCIONA?</h4>
+      Os dados divulgados no Portal são provenientes de diversas fontes de informação, entre as quais estão os grandes sistemas estruturadores da Sanremo
+      – como o Sistema Integrado de Administração Financeira da Sanremo (Siafs) e o Sistema Integrado de Administração de Recursos Humanos (Siarh) –,
+      as bases de benefícios sociais, as faturas de Cartão de Pagamentos da Sanremo, entre diversas outras.<br>
+      Os setores responsáveis por cada fonte de informação encaminham seus dados para o Portal, que recebe, reúne e disponibiliza as informações na ferramenta.<br>
+      A periodicidade de envio dos dados depende do assunto tratado, assim como a periodicidade de atualização das informações no Portal.<br>
+      Uma vez carregadas no Portal, as informações são disponibilizadas para conhecimento do cidadão atrves de tabelas.<br>
+      O acesso ao Portal não requer usuário nem senhas, sendo permitido a qualquer cidadão navegar pelas páginas de forma livre, bem como visualizar e utilizar
+      os dados disponíveis da forma que melhor lhe convier.<p></p>
+      Entre e conheça mais sobre essa importante ferramenta à sua disposição!
+
+</div>
+
+
+<table>
+  <tr>
+    <td>
+
+      <h1>SOBRE PORTAL</h1>
+
+      <h2 id="portal">SOBRE PORTAL</h2>
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+    O Grupo Águia Branca é um dos maiores conglomerados empresariais de transporte
+    e logística do país. Com sede no Espírito Santo, o Grupo atua em todo o Brasil
+    nos serviços de transporte aéreo e rodoviário de passageiros, logística
+    e comércio de veículos.
+
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+    </td>
+  </tr>
+</table>
+<br><br>
+
+
+
+<br><br>
+<h2 id="pagamento">GASTOS COM FOLHA DE PAGAMENTO</h2>
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+        <div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEQYKKof1cxxpg1eOL1-Icc3K65yZOd6dWbrm2bO_wrMOCYgJ5g" align="left" width="50" height="50">
+        FOLHA DE PAGAMENTO
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Valor
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>R$ 26569,00</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>R$ 24554,00</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>R$ 22855,00</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>R$ 22526,00</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>R$ 22458,00</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>R$ 21458,00</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>R$ 20158,00</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>R$ 19525,00</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>R$ 25352,00</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+<h2 id="combustíveis">GASTOS COM COMBUSTÍVEIS</h2>
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+
+        <div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIPfSb49ErEtaChAp1a1N2g3YpBoj1COGHXl3xBOC3lRf7022" align="left" width="50" height="50">
+        </div>
+
+
+        FOLHA DE PAGAMENTO
+
+
+        GASTO COM COMBUSTÍVEIS
+
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Valor
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>R$ 56244,00</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>R$ 54164,00</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>R$ 55855,00</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>R$ 52526,00</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>R$ 53458,00</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>R$ 57458,00</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>R$ 50158,00</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>R$ 59123,00</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>R$ 55352,00</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+
+<h2 id="manutenção">GASTOS COM MANUTENÇÃO DA FROTA</h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+
+        <div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXrJzVdw04Jt9T86hAO1DxBgRhHRkewi0T8FUtg0TRhO9-2ZIhw" align="left" width="50" height="50">
+        </div>
+
+
+        GASOLINA
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Valor
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>R$ 26569,00</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>R$ 24554,00</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>R$ 12855,00</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>R$ 52526,00</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>R$ 12458,00</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>R$ 21458,00</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>R$ 20158,00</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>R$ 19525,00</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>R$ 25352,00</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+        MANUTENÇÃO FROTA
+
+
+        MANUTENÇÃO DA FROTA
+
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Valor
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>R$ 13569,00</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>R$ 14561,00</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>R$ 12545,00</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>R$ 12826,00</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>R$ 12458,00</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>R$ 14562,00</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>R$ 11448,00</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>R$ 14525,00</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>R$ 15352,00</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+
+<h2 id="limpeza">GASTOS COM LIMPEZA</h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+
+        <div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjn92cSiN8ECMnPk6JRELXYcq-Sywisx3zsUV4h-chrLgY2aeHA" align="left" width="50" height="50">
+          LIMPEZA
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Valor
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>R$ 2669,00</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>R$ 4554,00</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>R$ 1255,00</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>R$ 3256,00</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>R$ 2458,00</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>R$ 2145,00</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>R$ 2158,00</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>R$ 1525,00</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>R$ 2532,00</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table border="1">
+  <tr>
+    <td>
+      <h3>FROTA</h3>
+
+<br><br>
+<h2 id="frota">FROTA EM NÚMEROS</h2>
+<table border="1">
+  <tr>
+    <td>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdPQsOQxAQKGQZdIKqNE2M80Z9A-XmrETQkI8bjlhtl0sdVDvAg" align="left" width="60" height="50">
+      </div>
+      FROTA
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+      A Empresa tem 200 onibus
+    </td>
+  </tr>
+</table>
+<br><br>
+
+      A Empresa Possui 200 Veículos
+    </td>
+  </tr>
+</table>
+
+<br><br>
+  <h2 id="viagens">NÚMERO DE VIAGENS REALIZADAS</h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCEVIQg6HeaPmXlcf7sifOgqDQgSjN6gFu2RvHRfCxVEM0TqO" align="left" width="50" height="50">
+        QUANTIDADE DE VIAGENS
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Quantidade De Viagens
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>451</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>432</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>289</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>456</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>652</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>489</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>354</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>680</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>652</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+
+<h2 id="passageiros">NÚMERO DE PASSAGEIROS TRANSPORTADOS</h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">
+        <div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZxUNkugx9X4EFGxNgkCh66x-c1MDHsklE-SbkEbv6UfL4ghs" align="left" width="50" height="50">
+        </div>
+        QUANTIDADE DE PASSAGEIRO
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Mês
+      </th>
+      <th>
+        Quantidade de Passageiro Por Mês
+      </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2018</td><td>1562</td>
+    </tr>
+    <tr>
+      <td>02/2018</td><td>1894</td>
+    </tr>
+    <tr>
+      <td>03/2018</td><td>1462</td>
+    </tr>
+    <tr>
+      <td>04/2018</td><td>2312</td>
+    </tr>
+    <tr>
+      <td>05/2018</td><td>1894</td>
+    </tr>
+    <tr>
+      <td>06/2018</td><td>1654</td>
+    </tr>
+    <tr>
+      <td>07/2018</td><td>1621</td>
+    </tr>
+    <tr>
+      <td>08/2018</td><td>1345</td>
+    </tr>
+    <tr>
+      <td>09/2018</td><td>1632</td>
+    </tr>
+  </tbody>
+</table>
+  </body>
+</html>
